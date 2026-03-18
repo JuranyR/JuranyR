@@ -5,7 +5,7 @@ Front end developer in training 💻
 - 🔭 I’m currently working on react application that allow to create an order product as fast food implementing Redux and Firebase.
 - 🌱 I’m currently learning about frontend development with HTML, CSS, Javascript, SASS, ReactJs, Redux and firebase.
 - 💬 Ask me about all topic relationated with frontend
-- 📫 How to reach me: j.adeliaramirezp@gmail.com, https://www.linkedin.com/in/jurany-ramírez-pineda-a64900234 
+- 📫 How to reach me: j.adeliaramirezp@gmail.com, https://www.linkedin.com/in/jurany-adelia-ram%C3%ADrez-pineda/
 - ⚡ Fun fact: My Hobbies are read, write, meditate and know new places with nature. 
 
 
