@@ -3,6 +3,12 @@
 ### Full Stack Developer | Java & React 💻
 
 - 🔭 **Actualmente trabajando en:** [Ruta Salvaje](https://github.com/JuranyR/Ruta_Salvaje_react), una plataforma full-stack para la gestión y reserva de deportes de aventura, desarrollada con **React** en el frontend y **Java con Spring Boot** en el backend.
+- ### 🚀 Proyectos Destacados:
+| Proyecto | Descripción | Tecnologías Clave |
+| :--- | :--- | :--- |
+| 🏔️ **[Ruta Salvaje](https://github.com/JuranyR/Ruta_Salvaje_react)** | Plataforma full-stack para la reserva y gestión de deportes de aventura y turismo de naturaleza. | React, Redux, Java, Spring Boot, PostgreSQL |
+| 🏡 **[Rustik](https://github.com/JuranyR)** | Plataforma de gestión y reserva de alojamientos campestres y cabañas, con panel de administración y vistas de usuario. | React, JavaScript, HTML/CSS |
+| 🧸 **[Kiddo Circle](https://github.com/JuranyR)** | Plataforma web colaborativa para el intercambio, venta y donación de artículos infantiles de segunda mano con sistema de billetera virtual. | React, Redux, Firebase |
 - 🌱 **Tecnologías y herramientas:** 
   - **Frontend:** HTML5, CSS3, JavaScript (ES6+), SASS, Tailwind CSS, Bootstrap, React, Redux.
   - **Backend & BD:** Java, Spring Boot, Node.js, PostgreSQL.
