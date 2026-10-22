@@ -14,21 +14,23 @@
 - ⚡ **Dato curioso:** Me apasiona la lectura, la escritura, la meditación, tejer crochet y explorar senderos en la naturaleza 🌿.
 
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=juranyR&show_icons=true&theme=tokyonight#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+### 🛠️ Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juranyR&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,sass,tailwind,bootstrap,java,spring,nodejs,postgres,git,github,vscode,figma" />
+  </a>
+</p>
 
+---
 
-### Languages and Tools:
+### 📊 GitHub Stats:
 
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="60" ><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="60" >
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="60" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="60" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" height="60" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="60" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="60" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="60" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" height="60" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" height="60" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="60" />
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="185" src="https://github-readme-stats.vercel.app/api?username=juranyR&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juranyR&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" />
+  </a>
+</p>
